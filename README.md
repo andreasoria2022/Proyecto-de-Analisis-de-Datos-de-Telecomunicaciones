@@ -33,11 +33,13 @@ que tiene los archivos csv extraídos de la página de ENACOM. Detallaré los ar
 -	Archivo csv que contiene velocidad de bajada de internet por provincia.
   
 Además, la carpeta Data tiene otros archivos que son un resumen del EDA y que están incluidos en el archivo EDA.ipynb que son los siguientes:
+
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/ef57ecfd-d386-4a70-a0a0-b3d8d8669881)
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/06b385f7-5a0b-4a47-b11b-0b9240a287f6)
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/f2a529a4-3a69-4058-b5a6-23df3400c4b0)  
+
 Archivo notebook que contiene el proceso de extracción, transformación y limpieza de datos.  También tiene los siguientes archivos csv que fueron obtenidos del proceso de ETL.
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/faf8dcc6-614d-46f4-a9c5-8013e9553457)
