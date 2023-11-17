@@ -48,7 +48,7 @@ Archivo notebook que contiene el proceso de extracción, transformación y limpi
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/1749848c-e0c1-4bc3-a936-80a2a46b198c)
 
-Este archivo notebook contiene el analisis exploratorio de los datos y en la ultima tiene un resumen del EDA.
+Este archivo notebook contiene el analisis exploratorio de los datos y en la ultima parte tiene un resumen del EDA.
 README : este readme tiene el detalle de lo que contiene este proyecto y también un informe.
 
 
