@@ -38,7 +38,7 @@ Además, la carpeta Data tiene otros archivos que son un resumen del EDA y que e
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/06b385f7-5a0b-4a47-b11b-0b9240a287f6)
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/f2a529a4-3a69-4058-b5a6-23df3400c4b0)  
-archivo notebook que contiene el proceso de extracción, transformación y limpieza de datos.  También tiene los siguientes archivos csv que fueron obtenidos del proceso de ETL.
+Archivo notebook que contiene el proceso de extracción, transformación y limpieza de datos.  También tiene los siguientes archivos csv que fueron obtenidos del proceso de ETL.
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/faf8dcc6-614d-46f4-a9c5-8013e9553457)
 
@@ -48,7 +48,7 @@ archivo notebook que contiene el proceso de extracción, transformación y limpi
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/1749848c-e0c1-4bc3-a936-80a2a46b198c)
 
-este archivo notebook contiene el analisis exploratorio de los datos y en la ultima tiene un resumen del EDA.
+Este archivo notebook contiene el analisis exploratorio de los datos y en la ultima tiene un resumen del EDA.
 README : este readme tiene el detalle de lo que contiene este proyecto y también un informe.
 
 
