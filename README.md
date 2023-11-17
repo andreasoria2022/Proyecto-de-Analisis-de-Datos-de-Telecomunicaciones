@@ -7,28 +7,28 @@ que tiene los archivos csv extraídos de la página de ENACOM. Detallaré los ar
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/bc5b86e7-1d8e-4690-b4ab-d2256bd7372b) 
 -	Archivo csv que contiene los accesos a internet por cada 100 hogares por provincia, trimestre y año.
-  
+
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/6ad575e8-8aa4-464a-a92b-4cf3527e407d)
 -	Archivo csv que contiene los accesos a internet por cada 100 hogares, accesos por cada 100 habitantes por año y trimestre.
--	
+  
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/478c6621-f186-4098-a01c-f5de233e7263)
 -	Archivo csv que contiene la cantidad de conexiones de banda ancha y dial up por trimestre y año.
--	
+  
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/4926c210-9c46-496f-aff5-af10b3b00b05)
 -	Archivo csv que contiene la cantidad de conexiones de banda ancha y dial up por provincia, trimestre y año.
--	
+	
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/0c53f86e-6387-4472-8b23-865532c8b025)
 -	Archivo csv que tiene información sobre acceso a Internet por provincia, trimestre y por velocidad.
 -	
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/5cddbf9f-77ba-492f-b018-e34595c88daf)
 -	Archivo csv que contiene las ddistintas modalidades de acceso a internet teniendo en cuenta la tecnología por trimestre y por provincia
--	
+  
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/3ccddc3c-b021-45e3-a9b4-129ffba04b0d)
 -	Archivo csv que contiene las distintas modalidades de acceso por tecnología y localidades y provincias de Argentina.
--	
+  
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/1c085d39-5506-4dc2-8715-221c82b74472)
 -	Archivo csv que contiene las conexiones a Internet en sus modalidades, por localidades, partido y provincia.
--	
+  
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/240dd1cc-d5fa-4f11-b2c0-f747b7797362)
 -	Archivo csv que contiene velocidad de bajada de internet por provincia.
   
