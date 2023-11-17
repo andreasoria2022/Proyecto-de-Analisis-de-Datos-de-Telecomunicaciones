@@ -19,7 +19,7 @@ que tiene los archivos csv extraídos de la página de ENACOM. Detallaré los ar
 	
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/0c53f86e-6387-4472-8b23-865532c8b025)
 -	Archivo csv que tiene información sobre acceso a Internet por provincia, trimestre y por velocidad.
--	
+	
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/5cddbf9f-77ba-492f-b018-e34595c88daf)
 -	Archivo csv que contiene las ddistintas modalidades de acceso a internet teniendo en cuenta la tecnología por trimestre y por provincia
   
