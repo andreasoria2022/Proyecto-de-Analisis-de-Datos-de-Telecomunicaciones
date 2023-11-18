@@ -59,8 +59,10 @@ Informe de Telecomunicaciones
 Cuando hablamos de telecomunicaciones, nos referimos a la ciencia y a la práctica de la transmisión de información a través de medios electromagnéticos, mediante el empleo de un conjunto de técnicas y materiales especializados. Dicha información puede consistir en datos textuales, de audio, de video o la combinación de los tres.
 
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/c21e23af-cea2-4913-9656-1d28d58e4eb9)
+
 Torre de telecomunicaciones para la red 2G 3G 4G 5G durante la puesta del sol. Antena, BTS, microondas, repetidor, estación base, IOT. Concepto de tecnología en internet y comunicación móvil
 El término telecomunicación proviene de la palabra francesa télécommunication, compuesta por el prefijo griego tele-, “distancia”, y la palabra latina communicare, “compartir”. Fue acuñada por el ingeniero y escritor Édouard Estaunié (1862-1942) a inicios del siglo XIX, como reemplazo del término hasta entonces empleado para la comunicación por impulsos eléctricos: telegrafía.
+
 Dentro del concepto de telecomunicaciones podemos hallar hoy en día numerosas tecnologías, desde la radio, televisión, telefonía, redes informáticas e Internet, hasta la radionavegación, GPS y telemetría. 
 
 Según la naturaleza de su tecnología específica, podemos diferenciar entre:
@@ -108,6 +110,7 @@ Pero si comparamos el acceso a internet cada 100 habitantes del primer trimestre
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/58b69f1c-e5c1-40b9-9706-558f56081cc3)
 
 -	Aumentar en un 5% el acceso al servicio de internet a través de fibra óptica para el próximo trimestre, por provincia.
+  
 Si comparamos el acceso a servicio de internet a través de fibra óptica de la Capital Federal, del primer trimestre del año 2022 con el segundo trimestre del mismo año vemos que se superó ampliamente el objetivo porque hubo un incremento del 96,77%, Si comparamos el segundo trimestre del 2022, con el tercer trimestre del mismo año, vemos que cumplimos con el objetivo de aumentar un 5% el accesos al servicio de internet a través de fibra óptica al obtener un 5,73%.
 
 
