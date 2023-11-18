@@ -54,6 +54,69 @@ Este archivo notebook contiene el analisis exploratorio de los datos y en la ult
 
 README : este readme tiene el detalle de lo que contiene este proyecto y también un informe.
 
+Informe de Telecomunicaciones
+
+Cuando hablamos de telecomunicaciones, nos referimos a la ciencia y a la práctica de la transmisión de información a través de medios electromagnéticos, mediante el empleo de un conjunto de técnicas y materiales especializados. Dicha información puede consistir en datos textuales, de audio, de video o la combinación de los tres.
+
+![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/c21e23af-cea2-4913-9656-1d28d58e4eb9)
+Torre de telecomunicaciones para la red 2G 3G 4G 5G durante la puesta del sol. Antena, BTS, microondas, repetidor, estación base, IOT. Concepto de tecnología en internet y comunicación móvil
+El término telecomunicación proviene de la palabra francesa télécommunication, compuesta por el prefijo griego tele-, “distancia”, y la palabra latina communicare, “compartir”. Fue acuñada por el ingeniero y escritor Édouard Estaunié (1862-1942) a inicios del siglo XIX, como reemplazo del término hasta entonces empleado para la comunicación por impulsos eléctricos: telegrafía.
+Dentro del concepto de telecomunicaciones podemos hallar hoy en día numerosas tecnologías, desde la radio, televisión, telefonía, redes informáticas e Internet, hasta la radionavegación, GPS y telemetría. 
+
+Según la naturaleza de su tecnología específica, podemos diferenciar entre:
+•	Radiocomunicaciones: Es una forma de comunicación que se realiza a través de ondas de radio. La radio, la televisión, el radar y la telefonía móvil son ejemplos de aplicaciones de las ondas de radio.
+
+•	Telefonía: Es un servicio de comunicación que permite la transmisión de voz a través de una red de teléfonos. Los teléfonos fijos y móviles son ejemplos de dispositivos de telefonía.
+
+•	Televisión: Es un medio de comunicación que transmite imágenes y sonido a través de ondas electromagnéticas. La televisión es una de las formas más populares de entretenimiento y noticias.
+
+•	Internet: Es una red global de computadoras que permite la comunicación y el intercambio de información entre usuarios de todo el mundo. El correo electrónico, la navegación web y las redes sociales son ejemplos de aplicaciones de Internet.
+
+•	Fax: Es un sistema de transmisión de documentos que utiliza una línea telefónica para enviar y recibir información impresa. El fax ha sido ampliamente utilizado en el pasado, pero ha sido reemplazado en gran medida por el correo electrónico y otros medios digitales.
+
+Impacto de las telecomunicaciones
+Las telecomunicaciones desempeñan hoy un rol vital en la mayoría de los sistemas tecnológicos, tanto en el ámbito comercial y financiero, como en el militar, lúdico o cultural. Sus efectos han modificado para siempre el modo de relacionarnos y comunicarnos entre los seres humanos.
+El uso de internet en Argentina – Datos estadísticos
+Desde el lanzamiento de las primeras conexiones de banda ancha a finales de la década de los ‘90, Argentina se ha convertido en uno de los países con la mayor tasa de penetración de internet en América Latina, con más de tres cuartas partes de su población con acceso a la red de redes.
+
+
+
+
+Porcentaje de la población con acceso a Internet top 10 países y territorios de América Latina y Caribe en 2023
+
+![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/9bd524ba-b400-4d32-b617-2af1abc7fc29)
+
+Una radiografía de los internautas argentinos
+En términos sociodemográficos, el acceso a la red en Argentina no es equitativo en todos los segmentos. Por ejemplo, en el caso del género, la brecha digital es pequeña, con una ligera ventaja para los internautas que se identifican con el género masculino. Las diferencias resultan más notorias al analizar la edad y el nivel educativo. En 2022, más del 96% de las personas de entre 18 y 29 años en Argentina contaban con acceso a internet pero menos del 65% de los mayores de 65 años gozaban de este servicio. El nivel educativo también traza una división clara entre los usuarios de internet. Mientras que más del 97% de las personas con educación superior o universitaria tenían acceso a la red, el porcentaje era inferior al 70% en la población con nivel primario completo o sin instrucción.
+El dashboard es interactivo y se puede interpretar fácilmente la información. Tiene filtros por provincias y también por trimestre. Presenta la información más importante sobre el servicio de internet. 
+
+![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/d98225d3-4662-45ee-89f4-cd1fff63aca0)
+
+-	Aumentar en 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
+
+En la provincia de Buenos Aires comparando el acceso a internet cada 100 hogares, del primer trimestre del año 2021 con el segundo trimestre del año 2021 muestra un incremento del 1, 2% por lo que en este periodo no se llevó a alcanzar el objetivo de 2%. Pero si comparamos el acceso a internet cada 100 hogares del segundo trimestre del 2021 con el tercer trimestre del mismo año, podemos concluir que se obtuvo el objetivo al alcanzar un incremento del 2,3%. 
+
+En la provincia de Tucumán, comparando el acceso a internet cada 100 hogares, del primer trimestre del año 2022 con el segundo trimestre del año 2022 muestra un incremento del 2,61% por lo que en este periodo se superó el objetivo de 2%. Al igual que si comparamos el acceso a internet cada 100 hogares del segundo trimestre del 2022 con el tercer trimestre del mismo año, podemos concluir que superó el objetivo, al alcanzar un incremento del 3,34%
+
+![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/f15fe8f5-4789-4420-817b-563be072febe)
+
+-	Aumentar en 1,5% el acceso al servicio de internet para el próximo trimestre, cada 100 habitantes
+
+Si comparamos el acceso a internet cada 100 habitantes del primer trimestre del año 2018 con el segundo trimestre del mismo, vemos que hubo una disminución 1,26 % por lo que no se cumplió con el objetivo que era incrementar en un 1,5%.
+Pero si comparamos el acceso a internet cada 100 habitantes del primer trimestre del año 2022, con el segundo trimestre del mismo año, vemos que se superó el objetivo porque hubo un incremento del 2,90%.
+
+![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/58b69f1c-e5c1-40b9-9706-558f56081cc3)
+
+-	Aumentar en un 5% el acceso al servicio de internet a través de fibra óptica para el próximo trimestre, por provincia.
+Si comparamos el acceso a servicio de internet a través de fibra óptica de la Capital Federal, del primer trimestre del año 2022 con el segundo trimestre del mismo año vemos que se superó ampliamente el objetivo porque hubo un incremento del 96,77%, Si comparamos el segundo trimestre del 2022, con el tercer trimestre del mismo año, vemos que cumplimos con el objetivo de aumentar un 5% el accesos al servicio de internet a través de fibra óptica al obtener un 5,73%.
+
+
+
+
+
+
+
+
 
 
 
