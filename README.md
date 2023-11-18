@@ -61,6 +61,7 @@ Cuando hablamos de telecomunicaciones, nos referimos a la ciencia y a la prácti
 ![image](https://github.com/andreasoria2022/Proyecto-de-Analisis-de-Datos-de-Telecomunicaciones/assets/105015078/c21e23af-cea2-4913-9656-1d28d58e4eb9)
 
 Torre de telecomunicaciones para la red 2G 3G 4G 5G durante la puesta del sol. Antena, BTS, microondas, repetidor, estación base, IOT. Concepto de tecnología en internet y comunicación móvil
+
 El término telecomunicación proviene de la palabra francesa télécommunication, compuesta por el prefijo griego tele-, “distancia”, y la palabra latina communicare, “compartir”. Fue acuñada por el ingeniero y escritor Édouard Estaunié (1862-1942) a inicios del siglo XIX, como reemplazo del término hasta entonces empleado para la comunicación por impulsos eléctricos: telegrafía.
 
 Dentro del concepto de telecomunicaciones podemos hallar hoy en día numerosas tecnologías, desde la radio, televisión, telefonía, redes informáticas e Internet, hasta la radionavegación, GPS y telemetría. 
